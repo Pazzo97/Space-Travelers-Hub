@@ -14,7 +14,7 @@ In this project is about working with the real live data from the SpaceX API. It
 - https://api.spacexdata.com/v3
 - Jest
 
-## [Live Demo](https://space-travelers-hub01.netlify.app/
+## [Live Demo](https://space-travelers-hub01.netlify.app/)
 
 ## Getting Started
 To get a local copy open and running follow these simple example steps.
